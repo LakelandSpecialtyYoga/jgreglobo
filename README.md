@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jose Lobo and I created this github account to help manage the Lakeland Specialty Yoga Website.
+- Go check it out! https://www.berenicesansone.com/?utm_source=gmb&utm_medium=referral
+- 📫 How to reach me https://jglobo.github.io/.
